@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 25px;
+}
+
+body {
+    overflow:scroll;
+    font-family: consolas;
+    background-image: url(assets/background.png) ;
+    margin-left: 0;
+}
+
+#navbar {
+    background-color: #333;
+    height: 75px;
+    width: 100%;
+    overflow: hidden;
+        
+}
+.navlinks:visited{
+    color: #ff0099;
+    }
+.navlinks{
+    color:#ff0099;      
+    font-size:20px;
+    font-style: unset;
+    margin:auto 20px;
+    overflow:hidden;
+}
+
+.text{
+    margin: 0 10%;
+    width: 95%;
+}
+#divider{
+    width: 200px;
+    margin-left: 50%;
+    }
+#logo{
+    margin-left: 10%;
+    margin-top: 20px;
+}
+#navlinkbar{
+    height: 50px;
+    float:right;
+    margin: 25px 5px 0 0;
+    overflow:hidden;
+}
+h1{
+    font-size: 75px;
+    margin-top: 
+}
+h3{
+    font-size: 55px;
+    color: #ff0099;
+}
